@@ -1,5 +1,7 @@
 # Custom Guides
 
+![Dugi Guides](https://www.dugiguides.com/wp-content/uploads/2019/04/dugi440.png)
+
 > ## Instructions
 > 
 > 1. Download .zip from [Releases](https://github.com/Caluril/CustomGuides/releases).
@@ -31,5 +33,6 @@
 > 	* Edit the locale language file you copied, remove all the NPCid's and place yours in your chosen locale language.
 > 	* E.g., [144946] = "Ivus der Waldlord",
 > 	* E.g., These can also be found using de.wowhead.com and using the same NPCid in the same style as enUS.
+> 	* Save the file.
 
 Please bare with me as I will try to finish the documentation on how to write your own guide. Once I am finished, it will be included in this Getting Started pack.
