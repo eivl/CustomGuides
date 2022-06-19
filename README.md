@@ -8,24 +8,24 @@
 > E.g., DugisGuideViewerZOzzisGuides
 > 4. Edit the DugisGuideViewerZCustomGuides.toc file and rename it exactly the same as the folder.
 > 5. Edit the .toc file with NotePad++ or any other variant.
-> 	a. Change ## Title line to suit to your preference.
+> 	* Change ## Title line to suit to your preference.
 > 	E.g., DugiGuidesViewer |cff1784d1Ozzis Guides|r
-> 	b. Change ## Author line to your name.
+> 	* Change ## Author line to your name.
 > 	E.g., Ozzi
-> 	c. Save the .toc file.
+> 	* Save the .toc file.
 > 6. Edit the Autoload.xml file with NotePad++ or any other variant.
-> 	a. Type <Script file='Achievements\NameOfGuide.lua'/> in their desired locations. it's commented to help organising the guides.
-> 	b. Save the .xml file.
+> 	* Type <Script file='Achievements\NameOfGuide.lua'/> in their desired locations. it's commented to help organising the guides.
+> 	* Save the .xml file.
 > 7. Create Guide Categories inside the Guides folder.
 > E.g., Achievements
 > 8. Edit NPCs_enUS.lua with NotePad++ or any other variant.
-> 	a. Using [WowHead](www.wowhead.com) input NPCID's.
-> 	E.g., www.wowhead.com/npc=135775
-> 	b. Copy the name.
+> 	* Using [WowHead](www.wowhead.com) input NPCID's.
+> 	* E.g., www.wowhead.com/npc=135775
+> 	* Copy the name.
 > 	E.g., Scouting Map
-> 	c. Input the information in as follows:
+> 	* Input the information in as follows:
 > 	[135775] = "Scouting Map",
-> 	d. Save the file.
+> 	* Save the file.
 > 9. If you use a different locale language other than enUS, you will need to copy the locale language file from DugiGuides\Localization and copy the NPCs_xxXX.lua.
 > xxXX will be deDE, esES, frFR, koKO etc.
 > 	a. Edit the locale language file you copied, remove all the NPCid's and place yours in your chosen locale language.
