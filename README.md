@@ -34,5 +34,12 @@
 > 	* E.g., [144946] = "Ivus der Waldlord",
 > 	* E.g., These can also be found using de.wowhead.com and using the same NPCid in the same style as enUS.
 > 	* Save the file.
+> 10. Edit the .toc file with NotePad++ or any other variant.
+>   * Add: Localization\NPCs_xxXX.lua
+>   * xxXX is the locale language you made in step 9.
+>   * Save the .toc file.
+> 11. Copy DugisGuideViewerZ**YourGuides** folder.
+> 12. Paste into .\World of Warcraft\_retail_\Interface\AddOns\
+> 13. Run the game, check the AddOns button, your guides should be checked.
 
-Please bare with me as I will try to finish the documentation on how to write your own guide. Once I am finished, it will be included in this Getting Started pack.
+Please bare with me as I will try to finish the documentation on how to write your own guides. Once I am finished, it will be included in this Getting Started pack.
