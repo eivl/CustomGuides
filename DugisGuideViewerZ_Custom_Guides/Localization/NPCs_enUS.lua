@@ -8,16 +8,17 @@ end
 function NPC:Initialize()
 	function NPC:Load()
 		DugisNPCsEn2 = {
+--[NPCid] = "NPCname",
 
-}
+		}
 		if DugisNPCsEn then 
-				for k, v in pairs(DugisNPCsEn2) do
-						if type(v) == 'table' then
-								DugisNPCsEn[k] = merge(DugisNPCsEn[k], DugisNPCsEn2[k])
-						else
-							DugisNPCsEn[k] = v
-						end
+			for k, v in pairs(DugisNPCsEn2) do
+				if type(v) == 'table' then
+					DugisNPCsEn[k] = merge(DugisNPCsEn[k], DugisNPCsEn2[k])
+				else
+					DugisNPCsEn[k] = v
 				end
+			end
 		end
 
 	end
