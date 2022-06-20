@@ -8,7 +8,14 @@ end
 function NPC:Initialize()
 	function NPC:Load()
 		DugisNPCsEn2 = {
---[NPCid] = "NPCname",
+			[182864] = "Au'Dara",
+			[181328] = "Ve'nish",
+			[351888] = "Wanted: Summoner Marcelis",
+			[355296] = "Bounty: Beast Control",
+			[351885] = "Wanted: Aggregate of Doom",
+			[349515] = "Battered Journal",
+			[348747] = "Muddy Scroll",
+			[336415] = "Discarded Scroll",
 
 		}
 		if DugisNPCsEn then 

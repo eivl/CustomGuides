@@ -1,8 +1,8 @@
 ## Interface: 90205
-## Title: DugiGuidesViewer |cff1784d1Custom Guides|r
-## Notes: Custom guides that will load with DugiGuidesViewer.
+## Title: eivl's |cff1784d1speed guide|r
+## Notes: Custom guides that will load with eivl's speed guide.
 ## Version: 1.0.0
-## Author: YourName
+## Author: Eivind Teig
 ## RequiredDeps: DugisGuideViewerZ
 ## DefaultState: enabled
 
