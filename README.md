@@ -6,9 +6,9 @@
 > 
 > 1. Download .zip from [Releases](https://github.com/Caluril/CustomGuides/releases).
 > 2. Extract the .zip file.
-> 3. Edit the DugisGuideViewerZ**CustomGuides** folder and rename it to your preference.
+> 3. Rename the DugisGuideViewerZ**CustomGuides** folder to your preference.
 > * E.g., DugisGuideViewerZOzzisGuides
-> 4. Edit the DugisGuideViewerZCustomGuides.toc file and rename it exactly the same as the folder.
+> 4. Rename the DugisGuideViewerZCustomGuides.toc file exactly the same name as the folder.
 > 5. Edit the .toc file with NotePad++ or any other variant.
 > 	* Change ## Title line to suit to your preference.
 > 	* E.g., DugiGuidesViewer |cff1784d1Ozzis Guides|r
