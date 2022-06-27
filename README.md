@@ -7,7 +7,7 @@
 > 1. Download .zip from [Releases](https://github.com/Caluril/CustomGuides/releases).
 > 2. Extract the .zip file.
 > 3. Rename the DugisGuideViewerZ**CustomGuides** folder to your preference.
-> * E.g., DugisGuideViewerZOzzisGuides
+> * E.g., DugisGuideViewerZ_Ozzis_Guides
 > 4. Rename the DugisGuideViewerZCustomGuides.toc file exactly the same name as the folder.
 > 5. Edit the .toc file with NotePad++ or any other variant.
 > 	* Change ## Title line to suit to your preference.
@@ -26,10 +26,10 @@
 > 	* Copy the name.
 > 	* E.g., Scouting Map
 > 	* Input the information in as follows:
-> 	[135775] = "Scouting Map",
+> 	* [135775] = "Scouting Map",
 > 	* Save the file.
-> 9. If you use a different locale language other than enUS, you will need to copy the locale language file from DugiGuides\Localization and copy the NPCs_xxXX.lua to your Localization folder.
-> xxXX will be deDE, esES, frFR, koKO etc.
+> 9. If you use a different locale language other than enUS, you will need to copy the locale language file from DugiGuides\Localization and copy the NPCs_xxXX.lua and paste it into your Localization folder.
+>   * xxXX will be deDE, esES, frFR, koKO etc.
 > 	* Edit the locale language file you copied, remove all the NPCid's and place yours in your chosen locale language.
 > 	* E.g., [144946] = "Ivus der Waldlord",
 > 	* E.g., These can also be found using de.wowhead.com and using the same NPCid in the same layout as enUS. [NPCid] = "NPCname",
